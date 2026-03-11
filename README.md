@@ -17,3 +17,9 @@ Sou estudante de Ciência da Computação.
 - Python
 - Git e GitHub
 
+## 📬 Contato
+
+- 📩 Email: [joaole1405@gmail.com](mailto:joaole1405@gmail.com)
+- 💼 LinkedIn: [João Alexandre](https://www.linkedin.com/in/joao-alexandre-a36646268)
+- 🌎 Santos - SP, Brasil
+
