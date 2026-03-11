@@ -3,10 +3,11 @@
 Sou estudante de Ciência da Computação.
 
 ## Sobre mim
-- 💻 Tenho interesse em programação e desenvolvimento web
-- 🎯 Atualmente focado em evoluir como desenvolvedor 
-- 📚 Estudando e praticando com JavaScript, HTML, CSS e Python
-- 🚀 Buscando minha primeira oportunidade na área de TI
+💻 Experiência em Front-End e conhecimentos em Back-End
+🛠️ HTML, CSS, JavaScript e lógica de programação
+📚 Aprofundando conhecimentos em Desenvolvimento Web e Ciência de Dados
+🎯 Objetivo: me tornar desenvolvedor profissional e viver de tecnologia
+⚡ Aprendo melhor criando projetos práticos e resolvendo problemas reais
 
 ## Tecnologias
 - HTML
